@@ -10,7 +10,7 @@ $ boilr template save . drone-admission -f
 create a project in directory my-admitter:
 
 ```console
-$ boilr template use drone-convert my-admitter
+$ boilr template use drone-admission my-admitter
 ```
 
 enter the docker registry name for this project:
