@@ -1,6 +1,6 @@
 # boilr-admission
 
-This is a boilr template for creating an admission extension. Use an admission extension to control registration and authentication. Get started by cloning the project and installing the template:
+This is a [boilr template](https://github.com/tmrts/boilr) for creating an admission extension. Use an admission extension to control registration and authentication. Get started by cloning the project and installing the template:
 
 ```console
 $ cd boilr-admission
